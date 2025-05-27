@@ -20,7 +20,7 @@ A suspicious email claiming to be from **Amazon Support** was analyzed using a s
 7. **Evaluated spelling/grammar** – clean grammar, but non-standard sign-off used  
 8. **Summarized phishing traits** – including spoofed identity and urgency tactics
 
----
+
 ## Tools Used
 📬 Email Header Analyzer
 Used MXToolbox and Google's email header tool to inspect SPF, DKIM, and DMARC results.
