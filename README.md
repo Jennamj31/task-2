@@ -1,5 +1,5 @@
 # task-2
-# 📧 Phishing Email Analysis – Case Study
+# 📧 Phishing Email Analysis 
 
 This project demonstrates a step-by-step forensic analysis of a **phishing email** to help raise awareness about common email-based threats and to showcase how email spoofing, header manipulation, and social engineering are used to deceive users.
 
@@ -21,5 +21,10 @@ A suspicious email claiming to be from **Amazon Support** was analyzed using a s
 8. **Summarized phishing traits** – including spoofed identity and urgency tactics
 
 ---
+## Tools Used
+📬 Email Header Analyzer
+Used MXToolbox and Google's email header tool to inspect SPF, DKIM, and DMARC results.
 
+🧪 VirusTotal / Hybrid Analysis
+Online malware scanning platforms were used to inspect any suspicious attachments or URLs.
 
